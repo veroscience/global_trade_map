@@ -1,0 +1,307 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F2E9E4; /* Lightest color */
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #22223B;
+    overflow: hidden;
+    padding: 1em;
+    align-items: center; /* align vertically in the middle */
+    height: 35px;
+}
+
+.navbar a {
+    color: #F2E9E4;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.main-title {
+    font-size: 1.2em;
+}
+
+.sub-title {
+    font-size: 0.9em;
+    margin-top: 15px;
+    color: #F2E9E4;
+    font-weight: normal;
+}
+
+
+.nav-title {
+    color: #F2E9E4;
+    font-weight: bold;
+}
+
+.nav-links {
+    display: flex;
+}
+
+.navbar a:hover {
+    background-color: #4A4E69;
+    color: #F2E9E4;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+.analysis-container {
+    flex-direction: column;
+}
+
+.analysis-row {
+    width: 100%;
+    /* add any other styling you want for each row */
+}
+
+
+.column {
+    flex: 1;
+    padding: 0.5em;
+    margin: 0.5em;
+    background-color: #C9ADA7; /* Light color */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.dropdown_head {
+
+    margin-top:10px;
+    margin-bottom:0px;
+    font-size:12px; 
+    color: #22223B;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.dropdown {
+    position: relative;
+    justify-content: center; align-items: center;
+    width: 35%;
+    margin-top:5px;
+    margin-left: 5px
+}
+
+.dropdown-content {
+    position: absolute;
+    background-color: #F2E9E4; /* Lightest color */
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: #22223B; /* Darkest color */
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.world-map {
+    background: #9A8C98; Medium color;
+    width: 100%;
+    height: 600px
+}
+
+
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.legend {
+    display: flex;
+    background-color: #C9ADA7; /* Light color */
+    padding: 1em;
+    color: #22223B; /* Darkest color */
+}
+
+
+.slidecontainer {
+    width: 100%;
+}
+
+
+
+.slider-info {
+    display: flex;
+    align-items: flex-start; /* align vertically */
+    width: 100%; /* make sure the container takes the full width */
+    overflow: visible; /* prevent the slider from being clipped */
+    height: 70px;
+    justify-content: center;
+    font-size: 12px;
+
+  }
+  .slider-info svg {
+    width: 90% !important; /* set the width of the SVG */
+    height: auto !important; /* reset the height of the SVG */
+  }
+
+.slider:hover {
+    opacity: 1;  /* Fully visible on hover */
+}
+
+#yearDisplay {
+    color: #22223b;  /* Same as the navbar color */
+    font-family: Arial, sans-serif;  /* Change this to match your site's font */
+    font-size: 14px;  /* Adjust size as needed */
+    margin-left: 2%;  /* Remove default margin */
+    
+}
+
+#yearSlider {
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+.tick line {
+    stroke: #22223B;
+  }
+
+.tick text {
+    fill: #22223B;
+  }
+
+.parameter-value text
+{font-weight: bold;
+font-size:12px}
+/* The Modal (background) */
+
+  
+.modal {
+    display: none; /* Hidden by default */
+    position: absolute; /* Stay in place */
+    z-index: 9999; /* Sit on top - Higher than any Leaflet layers */
+    left: 0;
+    top: 0;
+    width: 20%; /* Full width */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: #f2e9e4;
+    margin: auto;
+    padding: 10px;
+    border: 1px solid #22223b;
+    cursor: move; 
+}
+
+/* The Close Button */
+.close {
+    color: #22223b;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+.label_selected {
+    font-weight: bold;
+}
+
+.section {
+    border: 1px solid #22223b; /* Adjust border color as needed */
+    margin-bottom: 10px; /* Creates space between sections */
+    box-sizing: border-box; /* Includes padding and border in element's total width and height */
+  }
+
+  .section-content {
+   padding: 10px;
+  }
+
+  .header {
+    width:100%;
+    background-color: #22223b;
+    color: #F2E9E4;
+    padding: 5px;
+    box-sizing: border-box;
+  }
+  
+  .header h4 {
+    margin: 0;
+  }
+
+  #slider-section {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: flex-start;
+  }
+
+ 
+  /* Popup styles */
+
+.hidden {
+    display: none;
+}
+
+#popup {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-content {
+    background-color: #C9ADA7;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    color: #F2E9E4;
+}
+
+.popup-content h2 {
+    font-size: 24px;
+    color: #F2E9E4;
+    margin-bottom: 10px;
+}
+
+.popup-content p {
+    font-size: 16px;
+    color: #F2E9E4;
+    margin-bottom: 10px;
+}
+
+.popup-content button {
+    background-color: #22223B;
+    color: #F2E9E4;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.tooltip
+{
+  position: absolute;
+  z-index: 10;
+  visibility: hidden;
+  color:#F2E9E4;
+  background-color: #22223B;
+  font: 12px sans-serif;
+  padding: 8px
+}
+

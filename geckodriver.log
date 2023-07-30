@@ -1,0 +1,177 @@
+1582122042856	geckodriver	INFO	geckodriver 0.19.1
+1582122042868	geckodriver	INFO	Listening on 127.0.0.1:55973
+1582122046319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\vnuretdi\\AppData\\Local\\Temp\\rust_mozprofile.j1u6BQUUKc1q"
+1582122070782	geckodriver	INFO	geckodriver 0.19.1
+1582122070794	geckodriver	INFO	Listening on 127.0.0.1:56141
+1582122073875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\vnuretdi\\AppData\\Local\\Temp\\rust_mozprofile.YCHW2ZxEg87S"
+1582122074240	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582122074337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582122074337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582122074337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582122074337	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582122074427	Marionette	TRACE	Received observer notification profile-after-change
+1582122074472	Marionette	TRACE	Received observer notification toplevel-window-ready
+1582122074529	Marionette	TRACE	Received observer notification command-line-startup
+1582122074529	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1582122074586	Marionette	TRACE	Received observer notification toplevel-window-ready
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582122076314	Marionette	TRACE	Received observer notification marionette-startup-requested
+1582122076314	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1582122076343	Marionette	TRACE	All scripts recorded.
+1582122076343	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1582122076343	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1582122076344	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1582122076344	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1582122076344	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1582122076344	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1582122076344	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1582122076345	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1582122076345	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1582122076345	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1582122076381	Marionette	INFO	Listening on port 56162
+1582122076382	Marionette	DEBUG	Marionette is listening
+1582122076988	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:56209
+1582122076989	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1582122076990	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:175: ... t@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n"},null]
+1582122076994	Marionette	DEBUG	Closed connection 0
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+22200517	Marionette	TRACE	All scripts recorded.
+1582122200517	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1582122200518	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1582122200518	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1582122200518	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1582122200518	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1582122200518	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1582122200519	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1582122200519	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1582122200519	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1582122200519	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1582122200554	Marionette	INFO	Listening on port 56825
+1582122200555	Marionette	DEBUG	Marionette is listening
+1582122201133	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:56860
+1582122201138	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1582122201138	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:175: ... t@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n"},null]
+1582122201152	Marionette	DEBUG	Closed connection 0
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1582123375104	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1582123375219	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1582123375432	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+ng recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1582122366119	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1582122366119	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1582122366119	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1582122366119	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1582122366120	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1582122366120	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1582122366120	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1582122366160	Marionette	INFO	Listening on port 62028
+1582122366161	Marionette	DEBUG	Marionette is listening
+1582122366792	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:62065
+1582122366795	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1582122366796	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:175: ... t@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n"},null]
+1582122366805	Marionette	DEBUG	Closed connection 0
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object

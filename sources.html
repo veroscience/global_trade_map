@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Data Sources</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+        <!-- Link to Font Awesome-->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+
+</head>
+<body>
+    <nav class="navbar">        
+        <div class="nav-title">
+
+          <span class="main-title">International TradeFlows 2003-2022</span><br>
+        <span class="sub-title">Your Gateway to International Trade and Market Analysis</span>
+        </div>
+                <!-- Add menu items here -->
+                <div class="nav-links">
+                <a href="index.html">Map</a>
+                <!-- <a href="analysis.html">Analysis</a> -->
+                <a href="sources.html">Data Sources</a>
+                <a href="https://github.com/veroscience" target="_blank"> <i class="fab fa-github"></i></a>
+                <a href="mailto:veronika@nuretdinova.com"><i class="far fa-envelope"></i></a>
+            </div>
+    </nav>
+
+    <div class="analysis-container" style="margin-left:10px; width: 90%">
+        <h3>Global Trade Map</h3>      
+        <p> <a href="https://www.trademap.org/Index.aspx" target="_blank">The Global Trade Map™ (GTD)</a> 
+            covers 220 countries and territories and 5300 products of the Harmonized System. The monthly, quarterly and yearly trade flows are available from the most aggregated level to the tariff line level.
+        </p>
+  
+          <h4>Data Collection</h4>
+          <ul>
+            <li>The data is scrapped from the website using Selenium, FY 2003-2023 for 120 countries which had at least 1bn$ import value in 2021-2022, for top 100 product categories</li>
+            <li>The map is based on import values, because import data is fuller: 
+                e.g. there's no trade data FY 2022 for Russia, UAE, etc. But their export data can be collected through import data of their counterparts</li> 
+        </ul>
+
+          <h4>Missing entries</h4>
+          <ul>
+            <li>Several major exporters are missing 2022 trade data at the date of collection (July 28th, 2023). Many smaller traders or countries with political instability (e.g. Venezuela) are missing trade data for the past several years.
+                To compensate for the gaps, I've used import data to use the data from their counterparts</li>
+                <li>In case the selected year data is missing, the map retrives the previous year data for a country. If the previos year data is missing as well, the country's tradeflows do not appear in the map</li>
+    
+          </div>
+</body>
+</html>

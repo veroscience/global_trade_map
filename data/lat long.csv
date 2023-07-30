@@ -1,0 +1,218 @@
+,country,capital,lat,long,lat_decimal,long_decimal
+0,Afghanistan,Kabul,34°28'N,69°11'E,34.46666667,69.18333333
+1,Albania,Tirane,41°18'N,19°49'E,41.3,19.81666667
+2,Algeria,Algiers,36°42'N,03°08'E,36.7,3.133333333
+3,American Samoa,Pago Pago,14°16'S,170°43'W,-14.26666667,-170.7166667
+4,Andorra,Andorra la Vella,42°31'N,01°32'E,42.51666667,1.533333333
+5,Angola,Luanda,08°50'S,13°15'E,-8.833333333,13.25
+6,Antigua and Barbuda,W. Indies,17°20'N,61°48'W,17.33333333,-61.8
+7,Argentina,Buenos Aires,36°30'S,60°00'W,-36.5,-60
+8,Armenia,Yerevan,40°10'N,44°31'E,40.16666667,44.51666667
+9,Aruba,Oranjestad,12°32'N,70°02'W,12.53333333,-70.03333333
+10,Australia,Canberra,35°15'S,149°08'E,-35.25,149.1333333
+11,Austria,Vienna,48°12'N,16°22'E,48.2,16.36666667
+12,Azerbaijan,Baku,40°29'N,49°56'E,40.48333333,49.93333333
+13,Bahamas,Nassau,25°05'N,77°20'W,25.08333333,-77.33333333
+14,Bahrain,Manama,26°10'N,50°30'E,26.16666667,50.5
+15,Bangladesh,Dhaka,23°43'N,90°26'E,23.71666667,90.43333333
+16,Barbados,Bridgetown,13°05'N,59°30'W,13.08333333,-59.5
+17,Belarus,Minsk,53°52'N,27°30'E,53.86666667,27.5
+18,Belgium,Brussels,50°51'N,04°21'E,50.85,4.35
+19,Belize,Belmopan,17°18'N,88°30'W,17.3,-88.5
+20,Benin,Porto-Novo (constitutional cotonou) (seat of gvnt),06°23'N,02°42'E,6.383333333,2.7
+21,Bhutan,Thimphu,27°31'N,89°45'E,27.51666667,89.75
+22,Bolivia,La Paz (adm.)/sucre (legislative),16°20'S,68°10'W,-16.33333333,-68.16666667
+23,Bosnia and Herzegovina,Sarajevo,43°52'N,18°26'E,43.86666667,18.43333333
+24,Botswana,Gaborone,24°45'S,25°57'E,-24.75,25.95
+25,Brazil,Brasilia,15°47'S,47°55'W,-15.78333333,-47.91666667
+26,British Virgin Islands,Road Town,18°27'N,64°37'W,18.45,-64.61666667
+27,Brunei Darussalam,Bandar Seri Begawan,04°52'N,115°00'E,4.866666667,115
+28,Bulgaria,Sofia,42°45'N,23°20'E,42.75,23.33333333
+29,Burkina Faso,Ouagadougou,12°15'N,01°30'W,12.25,-1.5
+30,Burundi,Bujumbura,03°16'S,29°18'E,-3.266666667,29.3
+31,Cambodia,Phnom Penh,11°33'N,104°55'E,11.55,104.9166667
+32,Cameroon,Yaounde,03°50'N,11°35'E,3.833333333,11.58333333
+33,Canada,Ottawa,45°27'N,75°42'W,60,-107
+34,Cape Verde,Praia,15°02'N,23°34'W,15.03333333,-23.56666667
+35,Cayman Islands,George Town,19°20'N,81°24'W,19.33333333,-81.4
+36,Central African Republic,Bangui,04°23'N,18°35'E,4.383333333,18.58333333
+37,Chad,N'Djamena,12°10'N,14°59'E,12.16666667,14.98333333
+38,Chile,Santiago,33°24'S,70°40'W,-33.4,-70.66666667
+39,China,Beijing,39°55'N,116°20'E,39.91666667,116.3333333
+40,Colombia,Bogota,04°34'N,74°00'W,4.566666667,-74
+41,Comros,Moroni,11°40'S,43°16'E,-11.66666667,43.26666667
+42,Congo,Brazzaville,04°09'S,15°12'E,-4.15,15.2
+43,Costa Rica,San Jose,09°55'N,84°02'W,9.916666667,-84.03333333
+44,Cote d'Ivoire,Yamoussoukro,06°49'N,05°17'W,6.816666667,-5.283333333
+45,Croatia,Zagreb,45°50'N,15°58'E,45.83333333,15.96666667
+46,Cuba,Havana,23°08'N,82°22'W,23.13333333,-82.36666667
+47,Cyprus,Nicosia,35°10'N,33°25'E,35.16666667,33.41666667
+48,Czech Republic,Prague,50°05'N,14°22'E,50.08333333,14.36666667
+49,Democratic People's Republic of,P'yongyang,39°09'N,125°30'E,39.15,125.5
+50,Democratic Republic of the Congo,Kinshasa,04°20'S,15°15'E,-4.333333333,15.25
+51,Denmark,Copenhagen,55°41'N,12°34'E,55.68333333,12.56666667
+52,Djibouti,Djibouti,11°08'N,42°20'E,11.13333333,42.33333333
+53,Dominica,Roseau,15°20'N,61°24'W,15.33333333,-61.4
+54,Dominican Republic,Santo Domingo,18°30'N,69°59'W,18.5,-69.98333333
+55,East Timor,Dili,08°29'S,125°34'E,-8.483333333,125.5666667
+56,Ecuador,Quito,00°15'S,78°35'W,-0.25,-78.58333333
+57,Egypt,Cairo,30°01'N,31°14'E,30.01666667,31.23333333
+58,El Salvador,San Salvador,13°40'N,89°10'W,13.66666667,-89.16666667
+59,Equatorial Guinea,Malabo,03°45'N,08°50'E,3.75,8.833333333
+60,Eritrea,Asmara,15°19'N,38°55'E,15.31666667,38.91666667
+61,Estonia,Tallinn,59°22'N,24°48'E,59.36666667,24.8
+62,Ethiopia,Addis Ababa,09°02'N,38°42'E,9.033333333,38.7
+63,Falkland Islands (Malvinas),Stanley,51°40'S,59°51'W,-51.66666667,-59.85
+64,Faroe Islands,Torshavn,62°05'N,06°56'W,62.08333333,-6.933333333
+65,Fiji,Suva,18°06'S,178°30'E,-18.1,178.5
+66,Finland,Helsinki,60°15'N,25°03'E,60.25,25.05
+67,France,Paris,48°50'N,02°20'E,48.83333333,2.333333333
+68,French Guiana,Cayenne,05°05'N,52°18'W,5.083333333,-52.3
+69,French Polynesia,Papeete,17°32'S,149°34'W,-17.53333333,-149.5666667
+70,Gabon,Libreville,00°25'N,09°26'E,0.416666667,9.433333333
+71,Gambia,Banjul,13°28'N,16°40'W,13.46666667,-16.66666667
+72,Georgia,T'bilisi,41°43'N,44°50'E,41.71666667,44.83333333
+73,Germany,Berlin,52°30'N,13°25'E,52.5,13.41666667
+74,Ghana,Accra,05°35'N,00°06'W,5.583333333,-0.1
+75,Greece,Athens,37°58'N,23°46'E,37.96666667,23.76666667
+76,Greenland,Nuuk,64°10'N,51°35'W,64.16666667,-51.58333333
+77,Guadeloupe,Basse-Terre,16°00'N,61°44'W,16,-61.73333333
+78,Guatemala,Guatemala,14°40'N,90°22'W,14.66666667,-90.36666667
+79,Guernsey,St. Peter Port,49°26'N,02°33'W,49.43333333,-2.55
+80,Guinea,Conakry,09°29'N,13°49'W,9.483333333,-13.81666667
+81,Guinea-Bissau,Bissau,11°45'N,15°45'W,11.75,-15.75
+82,Guyana,Georgetown,06°50'N,58°12'W,6.833333333,-58.2
+83,Haiti,Port-au-Prince,18°40'N,72°20'W,18.66666667,-72.33333333
+84,Heard Island and McDonald Islands,,53°00'S,74°00'E,-53,74
+85,Honduras,Tegucigalpa,14°05'N,87°14'W,14.08333333,-87.23333333
+86,Hungary,Budapest,47°29'N,19°05'E,47.48333333,19.08333333
+87,Iceland,Reykjavik,64°10'N,21°57'W,64.16666667,-21.95
+88,India,New Delhi,28°37'N,77°13'E,28.61666667,77.21666667
+89,Indonesia,Jakarta,06°09'S,106°49'E,-6.15,106.8166667
+90,Iran,Tehran,35°44'N,51°30'E,35.73333333,51.5
+91,Iraq,Baghdad,33°20'N,44°30'E,33.33333333,44.5
+92,Ireland,Dublin,53°21'N,06°15'W,53.35,-6.25
+93,Israel,Jerusalem,31°47'N,35°12'E,31.78333333,35.2
+94,Italy,Rome,41°54'N,12°29'E,41.9,12.48333333
+95,Jamaica,Kingston,18°00'N,76°50'W,18,-76.83333333
+96,Jordan,Amman,31°57'N,35°52'E,31.95,35.86666667
+97,Kazakhstan,Astana,51°10'N,71°30'E,51.16666667,71.5
+98,Kenya,Nairobi,01°17'S,36°48'E,-1.283333333,36.8
+99,Kiribati,Tarawa,01°30'N,173°00'E,1.5,173
+100,Kuwait,Kuwait,29°30'N,48°00'E,29.5,48
+101,Kyrgyzstan,Bishkek,42°54'N,74°46'E,42.9,74.76666667
+102,Lao People's Democratic Republic,Vientiane,17°58'N,102°36'E,17.96666667,102.6
+103,Latvia,Riga,56°53'N,24°08'E,56.88333333,24.13333333
+104,Lebanon,Beirut,33°53'N,35°31'E,33.88333333,35.51666667
+105,Lesotho,Maseru,29°18'S,27°30'E,-29.3,27.5
+106,Liberia,Monrovia,06°18'N,10°47'W,6.3,-10.78333333
+107,Libyan Arab Jamahiriya,Tripoli,32°49'N,13°07'E,32.81666667,13.11666667
+108,Liechtenstein,Vaduz,47°08'N,09°31'E,47.13333333,9.516666667
+109,Lithuania,Vilnius,54°38'N,25°19'E,54.63333333,25.31666667
+110,Luxembourg,Luxembourg,49°37'N,06°09'E,49.61666667,6.15
+111,"Macao, China",Macau,22°12'N,113°33'E,22.2,113.55
+112,Madagascar,Antananarivo,18°55'S,47°31'E,-18.91666667,47.51666667
+113,Malawi,Lilongwe,14°00'S,33°48'E,-14,33.8
+114,Malaysia,Kuala Lumpur,03°09'N,101°41'E,3.15,101.6833333
+115,Maldives,Male,04°00'N,73°28'E,4,73.46666667
+116,Mali,Bamako,12°34'N,07°55'W,12.56666667,-7.916666667
+117,Malta,Valletta,35°54'N,14°31'E,35.9,14.51666667
+118,Martinique,Fort-de-France,14°36'N,61°02'W,14.6,-61.03333333
+119,Mauritania,Nouakchott,20°10'S,57°30'E,-20.16666667,57.5
+120,Mayotte,Mamoudzou,12°48'S,45°14'E,-12.8,45.23333333
+121,Mexico,Mexico,19°20'N,99°10'W,19.33333333,-99.16666667
+122,Micronesia (Federated States of),Palikir,06°55'N,158°09'E,6.916666667,158.15
+123,"Moldova, Republic of",Chisinau,47°02'N,28°50'E,47.03333333,28.83333333
+124,Mozambique,Maputo,25°58'S,32°32'E,-25.96666667,32.53333333
+125,Myanmar,Yangon,16°45'N,96°20'E,16.75,96.33333333
+126,Namibia,Windhoek,22°35'S,17°04'E,-22.58333333,17.06666667
+127,Nepal,Kathmandu,27°45'N,85°20'E,27.75,85.33333333
+128,Netherlands,Amsterdam/The Hague (seat of Gvnt),52°23'N,04°54'E,52.38333333,4.9
+129,Netherlands Antilles,Willemstad,12°05'N,69°00'W,12.08333333,-69
+130,New Caledonia,Noumea,22°17'S,166°30'E,-22.28333333,166.5
+131,New Zealand,Wellington,41°19'S,174°46'E,-41.31666667,174.7666667
+132,Nicaragua,Managua,12°06'N,86°20'W,12.1,-86.33333333
+133,Niger,Niamey,13°27'N,02°06'E,13.45,2.1
+134,Nigeria,Abuja,09°05'N,07°32'E,9.083333333,7.533333333
+135,Norfolk Island,Kingston,45°20'S,168°43'E,-45.33333333,168.7166667
+136,Northern Mariana Islands,Saipan,15°12'N,145°45'E,15.2,145.75
+137,Norway,Oslo,59°55'N,10°45'E,59.91666667,10.75
+138,Oman,Masqat,23°37'N,58°36'E,23.61666667,58.6
+139,Pakistan,Islamabad,33°40'N,73°10'E,33.66666667,73.16666667
+140,Palau,Koror,07°20'N,134°28'E,7.333333333,134.4666667
+141,Panama,Panama,09°00'N,79°25'W,9,-79.41666667
+142,Papua New Guinea,Port Moresby,09°24'S,147°08'E,-9.4,147.1333333
+143,Paraguay,Asuncion,25°10'S,57°30'W,-25.16666667,-57.5
+144,Peru,Lima,12°00'S,77°00'W,-12,-77
+145,Philippines,Manila,14°40'N,121°03'E,14.66666667,121.05
+146,Poland,Warsaw,52°13'N,21°00'E,52.21666667,21
+147,Portugal,Lisbon,38°42'N,09°10'W,38.7,-9.166666667
+148,Puerto Rico,San Juan,18°28'N,66°07'W,18.46666667,-66.11666667
+149,Qatar,Doha,25°15'N,51°35'E,25.25,51.58333333
+150,Republic of Korea,Seoul,37°31'N,126°58'E,37.51666667,126.9666667
+151,Romania,Bucuresti,44°27'N,26°10'E,44.45,26.16666667
+152,Russian Federation,Moskva,55°45'N,37°35'E,55.75,37.58333333
+153,Rawanda,Kigali,01°59'S,30°04'E,-1.983333333,30.06666667
+154,Saint Kitts and Nevis,Basseterre,17°17'N,62°43'W,17.28333333,-62.71666667
+155,Saint Lucia,Castries,14°02'N,60°58'W,14.03333333,-60.96666667
+156,Saint Pierre and Miquelon,Saint-Pierre,46°46'N,56°12'W,46.76666667,-56.2
+157,Saint vincent and the Grenadines,Kingstown,13°10'N,61°10'W,13.16666667,-61.16666667
+158,Samoa,Apia,13°50'S,171°50'W,-13.83333333,-171.8333333
+159,San Marino,San Marino,43°55'N,12°30'E,43.91666667,12.5
+160,Sao Tome and Principe,Sao Tome,00°10'N,06°39'E,0.166666667,6.65
+161,Saudi Arabia,Riyadh,24°41'N,46°42'E,24.68333333,46.7
+162,Senegal,Dakar,14°34'N,17°29'W,14.56666667,-17.48333333
+163,Sierra Leone,Freetown,08°30'N,13°17'W,8.5,-13.28333333
+164,Slovakia,Bratislava,48°10'N,17°07'E,48.16666667,17.11666667
+165,Slovenia,Ljubljana,46°04'N,14°33'E,46.06666667,14.55
+166,Solomon Islands,Honiara,09°27'S,159°57'E,-9.45,159.95
+167,Somalia,Mogadishu,02°02'N,45°25'E,2.033333333,45.41666667
+168,South Africa,Pretoria (adm.) / Cap Town (Legislative) / Bloemfontein (Judicial),25°44'S,28°12'E,-25.73333333,28.2
+169,Spain,Madrid,40°25'N,03°45'W,40.41666667,-3.75
+170,Sudan,Khartoum,15°31'N,32°35'E,15.51666667,32.58333333
+171,Suriname,Paramaribo,05°50'N,55°10'W,5.833333333,-55.16666667
+172,Swaziland,Mbabane (Adm.),26°18'S,31°06'E,-26.3,31.1
+173,Sweden,Stockholm,59°20'N,18°03'E,59.33333333,18.05
+174,Switzerland,Bern,46°57'N,07°28'E,46.95,7.466666667
+175,Syrian Arab Republic,Damascus,33°30'N,36°18'E,33.5,36.3
+176,Tajikistan,Dushanbe,38°33'N,68°48'E,38.55,68.8
+177,Thailand,Bangkok,13°45'N,100°35'E,13.75,100.5833333
+178,"Macedonia, North",Skopje,42°01'N,21°26'E,42.01666667,21.43333333
+179,Togo,Lome,06°09'N,01°20'E,6.15,1.333333333
+180,Tonga,Nuku'alofa,21°10'S,174°00'W,-21.16666667,-174
+181,Tunisia,Tunis,36°50'N,10°11'E,36.83333333,10.18333333
+182,Turkey,Ankara,39°57'N,32°54'E,39.95,32.9
+183,Turkmenistan,Ashgabat,38°00'N,57°50'E,38,57.83333333
+184,Tuvalu,Funafuti,08°31'S,179°13'E,-8.516666667,179.2166667
+185,Uganda,Kampala,00°20'N,32°30'E,0.333333333,32.5
+186,Ukraine,Kiev (Rus),50°30'N,30°28'E,50.5,30.46666667
+187,United Arab Emirates,Abu Dhabi,24°28'N,54°22'E,24.46666667,54.36666667
+188,United Kingdom,London,51°36'N,00°05'W,51.6,-0.083333333
+189,Tanzania,Dodoma,06°08'S,35°45'E,-6.133333333,35.75
+190,United States of America,Washington DC,39°91'N,77°02'W,42,-105
+191,United States of Virgin Islands,Charlotte Amalie,18°21'N,64°56'W,18.35,-64.93333333
+192,Uruguay,Montevideo,34°50'S,56°11'W,-34.83333333,-56.18333333
+193,Uzbekistan,Tashkent,41°20'N,69°10'E,41.33333333,69.16666667
+194,Vanuatu,Port-Vila,17°45'S,168°18'E,-17.75,168.3
+195,Venezuela,Caracas,10°30'N,66°55'W,10.5,-66.91666667
+196,Viet Nam,Hanoi,21°05'N,105°55'E,21.08333333,105.9166667
+197,Yugoslavia,Belgrade,44°50'N,20°37'E,44.83333333,20.61666667
+198,Zambia,Lusaka,15°28'S,28°16'E,-15.46666667,28.26666667
+199,Zimbabwe,Harare,17°43'S,31°02'E,-17.71666667,31.03333333
+200,Singapore,,,,1.357107,103.8194992
+201,Mongolia,,,,46.8250388,103.8499736
+202,Japan,,,,36.5748441,139.2394179
+203,"Taipei, Chinese",,,,25.13596075,121.5389922
+204,Gibraltar,,,,36.1285933,-5.3474761
+205,South Korea,,,,36.638392,127.6961188
+206,"Korea, Republic of",,,,36.638392,127.6961188
+206,Trinidad and Tobago,,,,10.7466905,-61.0840075
+207,Libya,,,,26.8234472,18.1236723
+208,Eswatini,,,,-26.5624806,31.3991317
+209,Morocco,,,,31.1728205,-7.3362482
+211,"Hong Kong, China",,,,22.2793278,114.1628131
+212,Sri Lanka,,,,7.87739585,80.66247852
+213,Marshall Islands,,,,8.9995549,168.0002575
+214,Yemen,,,,16.3471243,47.8915271
+215,Free Zones,,,,5.57675525,-0.165311396
+216,Serbia,,,,44.1534121,20.55144
