@@ -219,6 +219,10 @@ YearSlider.on('end', val => {
     filterTopArcs(VolumeSlider.value()*10**6)  ///flows should include all data
     } else
     {   
+      show_top_importers();
+      show_top_exporters();
+
+
         product_flows=calculate_product_data(data, selectedProduct)
         product_flows=product_flows.filter(d=>d.value>VolumeSlider.value()*10**6) 
         //      ///update stroke width scale 
