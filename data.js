@@ -55,6 +55,11 @@ d3.json("data/intracen_import.json").then(function(data) {
    // console.log("data", data["China"]['India'])
     flows=calculate_data(data);
     flows=flows.filter(d=>d.value>1000000)
+
+    thicknessScale = d3.scaleLinear()
+    .domain([10000000, d3.max(flows.map(d=>d.value))])
+    .range([1, width_value]);       
+
     create_arcs(flows, data)
     filterTopArcs(VolumeSlider.value()*10**6)
 var exclude_values=["export", "import", "value in 2022", "Ship stores and bunkers", 'Area Nes', 'Asia not elsewhere specified',
@@ -216,8 +221,8 @@ YearSlider.on('end', val => {
     {   
         product_flows=calculate_product_data(data, selectedProduct)
         product_flows=product_flows.filter(d=>d.value>VolumeSlider.value()*10**6) 
-             ///update stroke width scale 
-        calculate_width(selectedProduct)
+        //      ///update stroke width scale 
+        // calculate_width(selectedProduct)
         ///create arcs
         create_arcs(product_flows, data)      
 
@@ -327,11 +332,8 @@ function create_arcs(flows, data)
     {      
         draw_markers(flows);
 
-        map_svg.selectAll(".arc").remove();     
+        map_svg.selectAll(".arc").remove();    
 
-        thicknessScale = d3.scaleLinear()
-        .domain([10000000, d3.max(flows.map(d=>d.value))])
-        .range([1, width_value]);       
             
         arcs=map_svg
         .append("g").attr("id", "arcs")
