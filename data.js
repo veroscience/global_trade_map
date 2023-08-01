@@ -62,6 +62,8 @@ d3.json("data/intracen_import.json").then(function(data) {
 
     create_arcs(flows, data)
     filterTopArcs(VolumeSlider.value()*10**6)
+    //upon completion disable to spinner
+    d3.select('#loadingSpinner').style('display', 'none');
 var exclude_values=["export", "import", "value in 2022", "Ship stores and bunkers", 'Area Nes', 'Asia not elsewhere specified',
 'America not elsewhere specified', 'Europe Othr. Nes', "Free Zones", 'West Asia not elsewhere specified']
     let importers= [...new Set(d3.values(data).map(d=>d3.keys(d)).flat())].sort();

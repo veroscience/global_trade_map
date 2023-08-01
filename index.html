@@ -182,7 +182,7 @@
         </button>
         <button id="saveButton" style="position:absolute;margin-top:40px; right:3%;"> <i class="fa fa-download"></i> Save Image</button>
 
-        <div id="loadingSpinner" style="display: none; position: absolute; z-index: 10; left: 50%; top:40%">
+        <div id="loadingSpinner" style="display: none; position: absolute; z-index: 10; left: 50%; top:50%">
             <img src="icons/spinner.gif" alt="Loading..." style="width: 100px; " />
         </div>
 
@@ -250,12 +250,12 @@ var g_slider = d3.select('#volumeSlider').append('svg')
 
 var ThicknessSlider = d3.sliderHorizontal()
   .min(1)
-  .max(100)
+  .max(200)
   .step(1)
- .height(40)
+ .height(50)
  .width(120)
   .tickFormat(d3.format(','))
-  .tickValues([10,50,100])
+  .tickValues([10,100, 200])
   .default(width_value)
 
 // Append it to your page

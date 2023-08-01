@@ -30,6 +30,8 @@ d3.json("data/world-110m2.json")
             .style("fill", "#F2E9E4")
             .style("stroke", "#22223b")
             .style("stroke-width", "1px")
+
+            d3.select('#loadingSpinner').style('display', 'block');
             })
     .catch(function(error){
         throw error;
